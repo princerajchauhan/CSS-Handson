@@ -1,0 +1,46 @@
+.demo{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+
+ol{
+    color: maroon;
+    line-height: 30px;
+}
+
+.linedelete{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.backcolor{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.lastlist{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+ul{
+    color: maroon;
+    letter-spacing: 5px;
+}
+ul span{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+}
+p{
+    color: maroon;
+}
